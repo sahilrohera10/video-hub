@@ -1,0 +1,8 @@
+.nav-div{
+    width: 100%;
+    height: 10vh;
+    background-color: #5969C3 ;
+    position: sticky;
+    top: 0;
+    z-index: 100000;
+}

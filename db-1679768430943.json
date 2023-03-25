@@ -1,0 +1,89 @@
+{
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Entertainment"
+    },
+    {
+      "id": 2,
+      "name": "Education"
+    },
+    {
+      "id": 3,
+      "name": "Motivation"
+    },
+    {
+      "name": "Sports",
+      "id": 4
+    },
+    {
+      "name": "Health",
+      "id": 5
+    },
+    {
+      "name": "Humanity",
+      "id": 6
+    },
+    {
+      "name": "Gym",
+      "id": 7
+    },
+    {
+      "name": "Songs",
+      "id": 8
+    }
+  ],
+  "cards": [
+    {
+      "cardName": "challa",
+      "id": 1
+    },
+    {
+      "cardName": "Party Song new",
+      "url": "https://youtu.be/8LZgzAZ2lpQ",
+      "id": 2
+    },
+    {
+      "cardName": "Web dev Roadmap",
+      "url": "https://youtu.be/_1yYCa0_Q1c",
+      "bucketId": 2,
+      "id": 3
+    },
+    {
+      "cardName": "Meet your Super Power",
+      "url": "https://youtu.be/QJhBeL6afgg",
+      "bucketId": 6,
+      "id": 4
+    },
+    {
+      "cardName": "Zaalima",
+      "url": "https://youtu.be/lpdRqn6xwiM",
+      "bucketId": 8,
+      "id": 6
+    },
+    {
+      "cardName": "Jhoome Jo Pathaan ",
+      "url": "https://youtu.be/YxWlaYCA8MU",
+      "bucketId": "1",
+      "id": 7
+    },
+    {
+      "cardName": "Humraah",
+      "url": "https://youtu.be/hJBHSmyqv0Y?list=RDhJBHSmyqv0Y",
+      "bucketId": "1",
+      "id": 8
+    },
+    {
+      "cardName": "Makhna",
+      "url": "https://youtu.be/HqUeSjsYLNU?list=RDhJBHSmyqv0Y",
+      "bucketId": "1",
+      "id": 9
+    },
+    {
+      "cardName": "Illahi",
+      "url": "https://youtu.be/YAOIbHBEvi0?list=RDhJBHSmyqv0Y",
+      "bucketId": "1",
+      "id": 10
+    }
+  ]
+}
